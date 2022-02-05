@@ -16,6 +16,7 @@ Expected Behavior
 
 # Example:
 Describe Your Issue
+
 My Atiesh, Greatstaff of the Guardian is not giving me the intended buff when I'm in Stormwind. Works everywhere else.
 
 Steps To Reproduce
@@ -26,4 +27,5 @@ Steps To Reproduce
 Item: https://classic.wowhead.com/item=22589/atiesh-greatstaff-of-the-guardian
 
 Expected Behavior
+
 Atiesh should still give me the buff anywhere in the world.
