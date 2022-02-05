@@ -1,5 +1,7 @@
 # Vanilla Plus Bug Tracker
 
+Please click on "Issues" above then "New Issue" to submit a bug report. Then copy and paste the template below with the appropriate information.
+
 When submitting a report, please follow the instructions in the below template. Reports that do not follow the template or are not fully completed may be closed without review.
 
 **Describe Your Issue**
